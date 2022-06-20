@@ -1,8 +1,8 @@
 //Instructions
 // Using the usual Users and Todo lists:
 //   - Prompt the user for a letter
-//   - Find all the users who's name contains the letter
-//   - Say hi to those users in the console - but only 1 greeting every 2 seconds.
+//   - Find all the users who's name contains the letter. ✅
+//   - Say hi to those users in the console - but only 1 greeting every 2 seconds. 🪲⚒️
 //   - Prompt the user for a user ID. Using the value, find all the todos that are Incomplete and console.log them.
 // Tips
 // - Don't forget to clear interval once it's done running
@@ -20,7 +20,7 @@ users.filter(function(user) {
   }, 2000)
 }
 )
-// Prompt the user for a user ID. Using the value, find all the todos that are Incomplete and console.log them.
+
 
 
 
